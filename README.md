@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/ravi_singh_100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravi_singh_100" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ravi-bajetha-80aa891b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi-bajetha-80aa891b6" height="30" width="40" /></a>
-<a href="https://fb.com/ravi singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravi singh" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100009174844223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravi singh" height="30" width="40" /></a>
 <a href="https://instagram.com/ravi_bajetha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravi_bajetha_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ravi_singh_100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ravi_singh_100" height="30" width="40" /></a>
 </p>

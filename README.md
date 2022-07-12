@@ -1,4 +1,5 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media2.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e479vfivpcx94hp87pq9pu3bwcgqedxx4ytfh59jla6&rid=giphy.gif&ct=g))](https://rishavchanda.io)
+<!-- [![MasterHead](https://media2.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e479vfivpcx94hp87pq9pu3bwcgqedxx4ytfh59jla6&rid=giphy.gif&ct=g)](https://rishavchanda.io) -->
+<a href="#"><img width="100%" height="350" src="https://media2.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e479vfivpcx94hp87pq9pu3bwcgqedxx4ytfh59jla6&rid=giphy.gif&ct=g"/></a>
 <h1 align="center">Hi 👋, I'm Ravi Singh Bajetha</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*lhOax3cZATGZwEhG0uTYRA.gif">

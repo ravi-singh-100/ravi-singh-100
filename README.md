@@ -30,3 +30,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravi-singh-100&show_icons=true&locale=en" alt="ravi-singh-100" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-singh-100&" alt="ravi-singh-100" /></p>
+<p align="left">
+  <a href="https://github.com/Platane/snk#readme">
+    <img src="https://raw.githubusercontent.com/ravi-singh-100/ravi-singh-100/output/github-snake-dark.svg" />
+  </a>
+</p>

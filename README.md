@@ -35,11 +35,7 @@
     <img src="https://raw.githubusercontent.com/ravi-singh-100/ravi-singh-100/output/github-snake-dark.svg" />
   </a>
 </p>
-<div align="center">
 
-## **Made by Ravi Bajetha 😉**
-
-</div>
 
 ## 🚀 About Me:
 - 🔭 I’m a Pre-Final year undergrad pursuing B.Tech in Computer Science!

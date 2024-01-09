@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ravi_singh_100" target="blank"><img src="https://img.shields.io/twitter/follow/ravi_singh_100?logo=twitter&style=for-the-badge" alt="ravi_singh_100" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+<!-- - 🌱 I’m currently learning **Java** -->
 
 - 📫 How to reach me **singhravi.rs11@gmail.com**
 
